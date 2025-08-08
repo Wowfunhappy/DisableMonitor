@@ -17,6 +17,8 @@
  */
 
 #import <IOKit/graphics/IOGraphicsLib.h>
+#import <ApplicationServices/ApplicationServices.h>
+#import <CoreFoundation/CoreFoundation.h>
 
 // GLFW 3.0 START
 //========================================================================
